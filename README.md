@@ -1,4 +1,4 @@
-👋 Hi, I'm Amirhossein Asadzadeh  
+Hi, I'm Amirhossein Asadzadeh  
 Junior DevOps / Cloud Engineer
 
 Building hands-on infrastructure, automation, and DevOps labs with a focus on
